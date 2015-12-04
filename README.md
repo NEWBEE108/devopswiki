@@ -1,5 +1,5 @@
 # DevopsWiki
-A wiki of articles related to devops
+A wiki of Guides, Scripts, Tutorials related to devops
 
 ## Table of Contents
 
