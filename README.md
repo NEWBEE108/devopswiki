@@ -7,6 +7,9 @@ A wiki of articles related to devops
   1. [Python Guides and Scripts](#python-guides-and-scripts)
   1. [Awk Guide](#awk-guide)
   1. [Automation Guides](#automation-guides)
+  1. [Troubleshooting](#Troubleshooting)
+  1. [Backups](#backups)
+  1. [Email Server Configuration](#email-server-configuration)
   
 
 
@@ -66,8 +69,18 @@ Automating web testing with Selenium
 
 http://techarena51.com/index.php/install-selenium-linux-automate-web-tests/
 
+Continously deploying your Flask/Python code  to your Linux production server with GitHub webhooks
+
+http://techarena51.com/index.php/flask-github-webhook-handler/
+
+
+
+**[Back to top](#table-of-contents)**
+
 ## Awk Guide
 http://techarena51.com/index.php/advance-text-processing-examples-awk/
+
+**[Back to top](#table-of-contents)**
 
 ##Automation Guides
 
@@ -84,3 +97,60 @@ http://techarena51.com/index.php/getting-started-with-saltstack/
 Using Foreman, an Opensource Frontend for Puppet
 
 http://techarena51.com/index.php/using-foreman-opensource-frontend-puppet/
+
+**[Back to top](#table-of-contents)**
+
+## Troubleshooting
+
+Troubleshooting Linux Server Memory Usage
+
+Using Watch to continously Monitor a command
+
+http://techarena51.com/index.php/watch-command-linux/
+
+http://techarena51.com/index.php/linux-memory-usage/
+
+**[Back to top](#table-of-contents)**
+
+## Backups
+
+BUP Git based Backup
+
+http://techarena51.com/index.php/using-git-backup-website-files-on-linux/
+
+Real time Backup Script written in bash
+
+https://github.com/Leo-G/backup-bash
+
+**[Back to top](#table-of-contents)**
+
+## Email Server Configuration
+
+Postfix configuration
+
+http://techarena51.com/index.php/configure-secure-postfix-email-server/
+
+Fail2ban configuration
+
+http://techarena51.com/index.php/confiigure-fail2ban-block-brute-force-ips-scanning-postfix-logs/
+
+Troubleshooting
+
+http://techarena51.com/index.php/postfix-configuration-and-explanation-of-parameters/
+
+Adding DMARC records
+
+http://techarena51.com/index.php/what-is-dmarc-and-how-you-can-add-it/
+
+**[Back to top](#table-of-contents)**
+
+##Firewall and Monitoring
+
+
+
+
+
+
+
+
+
