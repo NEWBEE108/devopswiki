@@ -4,9 +4,9 @@ A wiki of articles related to devops
 ## Table of Contents
 
   1. [Bash Guides and Scripts](#bash-guides-and-scripts)
-  1. [Python Guides](#Python-Guides)
-  1. [Awk Guide](#Awk-Guide)
-  1. [Automation Guides](#Automation-Guides)
+  1. [Python Guides and Scripts](#python-guides-and-scripts)
+  1. [Awk Guide](#awk-guide)
+  1. [Automation Guides](#automation-guides)
   
 
 
