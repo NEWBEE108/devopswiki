@@ -104,11 +104,15 @@ http://techarena51.com/index.php/using-foreman-opensource-frontend-puppet/
 
 Troubleshooting Linux Server Memory Usage
 
+http://techarena51.com/index.php/linux-memory-usage/
+
 Using Watch to continously Monitor a command
 
 http://techarena51.com/index.php/watch-command-linux/
 
-http://techarena51.com/index.php/linux-memory-usage/
+Troubleshooting with Tcpdump
+
+http://techarena51.com/index.php/tcpdump-examples-to-capture-passwords/
 
 **[Back to top](#table-of-contents)**
 
@@ -144,7 +148,39 @@ http://techarena51.com/index.php/what-is-dmarc-and-how-you-can-add-it/
 
 **[Back to top](#table-of-contents)**
 
-##Firewall and Monitoring
+## Firewall and Monitoring
+
+Configuring a Firewall for linux with CSF and LFD
+
+http://techarena51.com/index.php/how-to-configure-and-install-config-server-firewall-login-failure-daemon/
+
+Monitoring Linux Servers with Monit
+
+http://techarena51.com/index.php/how-to-install-monit-monitoring-service-on-your-linux-vps-server/
+
+**[Back to top](#table-of-contents)**
+
+## Others
+
+Installing your a VPN server on Linux
+
+http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/
+
+Installing Ruby on Rails on Linux
+
+http://techarena51.com/index.php/how-to-install-ruby-ruby-on-rails-and-phusion-passenger-on-centos/
+
+Installing Gunicorn on Linux
+
+http://techarena51.com/index.php/deploy-flask-on-ubuntu/
+
+**[Back to top](#table-of-contents)**
+
+
+
+
+
+
 
 
 
