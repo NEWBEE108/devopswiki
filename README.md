@@ -7,10 +7,11 @@ A wiki of articles related to devops
   1. [Python Guides and Scripts](#python-guides-and-scripts)
   1. [Awk Guide](#awk-guide)
   1. [Automation Guides](#automation-guides)
-  1. [Troubleshooting](#Troubleshooting)
+  1. [Troubleshooting](#troubleshooting)
   1. [Backups](#backups)
   1. [Email Server Configuration](#email-server-configuration)
-  
+  1. [Firewall and Monitoring](#firewall-and-monitoring)
+  1. [Miscellaneous](#miscellaneous)
 
 
 ## Bash Guides and Scripts
@@ -160,7 +161,7 @@ http://techarena51.com/index.php/how-to-install-monit-monitoring-service-on-your
 
 **[Back to top](#table-of-contents)**
 
-## Others
+## Miscellaneous
 
 Installing your a VPN server on Linux
 
