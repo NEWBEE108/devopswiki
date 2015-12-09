@@ -15,6 +15,8 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Email Server Configuration](#email-server-configuration)
   1. [Firewall and Monitoring](#firewall-and-monitoring)
   1. [Miscellaneous](#miscellaneous)
+  1. [C programming](#c-programming)
+  1. [Data Structures](#data-structures)
 
 
 ## Bash Guides and Scripts
@@ -77,6 +79,10 @@ Continously deploying your Flask/Python code  to your Linux production server wi
 
 http://techarena51.com/index.php/flask-github-webhook-handler/
 
+Understanding Threading and the Global Interpreter Lock
+
+http://jessenoller.com/blog/2009/02/01/python-threads-and-the-global-interpreter-lock
+
 
 
 **[Back to top](#table-of-contents)**
@@ -114,7 +120,7 @@ Using Watch to continously Monitor a command
 
 http://techarena51.com/index.php/watch-command-linux/
 
-Troubleshooting with Tcpdump
+Troubleshooting  with Tcpdump
 
 http://techarena51.com/index.php/tcpdump-examples-to-capture-passwords/
 
@@ -180,10 +186,25 @@ http://techarena51.com/index.php/deploy-flask-on-ubuntu/
 
 **[Back to top](#table-of-contents)**
 
+## C programming
 
+File I/O 
 
+http://gribblelab.org/CBootcamp/10_Input_and_Output.html
 
+C Programming Boot Camp 
 
+http://gribblelab.org/CBootcamp/
+
+**[Back to top](#table-of-contents)**
+
+## Data Structures
+
+Stack vs Heap
+
+http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
+
+**[Back to top](#table-of-contents)**
 
 
 
