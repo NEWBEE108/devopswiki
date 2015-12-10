@@ -1,5 +1,5 @@
 # DevopsWiki
-A wiki of Guides, Scripts, Tutorials related to devops
+A wiki of Guides, Scripts, Tutorials related to devops 
 
 ![Devops tools]
 (http://i.imgur.com/GFKIa7V.png)
@@ -19,6 +19,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Miscellaneous](#miscellaneous)
   1. [C programming](#c-programming)
   1. [Data Structures](#data-structures)
+  1. [Code Editors](#code-editors)
 
 
 ##Vim Cheat Sheet
@@ -178,6 +179,14 @@ http://techarena51.com/index.php/how-to-install-monit-monitoring-service-on-your
 
 ## Miscellaneous
 
+Linux System Calls
+
+http://www.digilife.be/quickreferences/qrc/linux%20system%20call%20quick%20reference.pdf
+
+Getting Started with Git
+
+http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1
+
 Installing your a VPN server on Linux
 
 http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/
@@ -189,6 +198,10 @@ http://techarena51.com/index.php/how-to-install-ruby-ruby-on-rails-and-phusion-p
 Installing Gunicorn on Linux
 
 http://techarena51.com/index.php/deploy-flask-on-ubuntu/
+
+Installing Django on Linux
+
+http://techarena51.com/index.php/install-django-1-7-on-linux/
 
 **[Back to top](#table-of-contents)**
 
@@ -211,7 +224,6 @@ Stack vs Heap
 http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
 
 **[Back to top](#table-of-contents)**
-
 
 
 
