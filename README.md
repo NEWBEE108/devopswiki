@@ -6,6 +6,8 @@ A wiki of Guides, Scripts, Tutorials related to devops
 
 ## Table of Contents
 
+
+  1. [Vim Cheat Sheet](#vim-cheat-sheet)
   1. [Bash Guides and Scripts](#bash-guides-and-scripts)
   1. [Python Guides and Scripts](#python-guides-and-scripts)
   1. [Awk Guide](#awk-guide)
@@ -18,6 +20,10 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [C programming](#c-programming)
   1. [Data Structures](#data-structures)
 
+
+##Vim Cheat Sheet
+
+http://michael.peopleofhonoronly.com/vim/
 
 ## Bash Guides and Scripts
 
