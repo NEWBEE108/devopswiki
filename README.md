@@ -123,6 +123,10 @@ Troubleshooting Linux Server Memory Usage
 
 http://techarena51.com/index.php/linux-memory-usage/
 
+Troubleshooting Programs on Linux with Strace
+
+http://www.redpill-linpro.com/sysadvent//2015/12/10/introduction-to-strace.html
+
 Using Watch to continously Monitor a command
 
 http://techarena51.com/index.php/watch-command-linux/
