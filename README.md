@@ -195,6 +195,10 @@ Getting Started with Git
 
 http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1
 
+Linux one second boot
+
+http://events.linuxfoundation.org/sites/events/files/slides/praesentation.pdf
+
 Installing your a VPN server on Linux
 
 http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/
@@ -223,7 +227,13 @@ C Programming Boot Camp
 
 http://gribblelab.org/CBootcamp/
 
+ Beej's Guide to Network Programming
+ 
+ https://beej.us/guide/bgnet/
+
 **[Back to top](#table-of-contents)**
+
+
 
 ## Data Structures
 
