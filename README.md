@@ -151,6 +151,10 @@ Real time Backup Script written in bash
 
 https://github.com/Leo-G/backup-bash
 
+MySQL incremental Backup with Percona
+
+https://www.percona.com/doc/percona-xtrabackup/2.3/xtrabackup_bin/incremental_backups.html
+
 **[Back to top](#table-of-contents)**
 
 ## Email Server Configuration
