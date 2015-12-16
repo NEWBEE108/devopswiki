@@ -60,6 +60,10 @@ http://redpill-linpro.com/sysadvent/2015/12/12/bash-process-substitution.html
 
 ## Python Guides and Scripts
 
+Python 3 String Encoding and Formatting
+
+http://www.diveintopython3.net/strings.html
+
 Building system monitoring apps in Python with Flask
 
 http://techarena51.com/index.php/how-to-install-python-3-and-flask-on-linux/
@@ -81,6 +85,10 @@ http://techarena51.com/index.php/json-web-token-authentication-with-flask-and-an
 Script to automatically Scaffold a database driven CRUD app in python
 
 https://github.com/Leo-G/Flask-Scaffold
+
+Psutil (python system and process utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network) in Python
+
+https://pypi.python.org/pypi/psutil
 
 Automating web testing with Selenium
 
