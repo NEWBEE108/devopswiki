@@ -86,7 +86,7 @@ Script to automatically Scaffold a database driven CRUD app in python
 
 https://github.com/Leo-G/Flask-Scaffold
 
-Psutil (python system and process utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network) in Python
+Psutil a cross-platform Python library for retrieving information on running processes and system utilization (CPU, memory, disks, network) 
 
 https://pypi.python.org/pypi/psutil
 
