@@ -10,7 +10,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Vim Cheat Sheet](#vim-cheat-sheet)
   1. [Bash Guides and Scripts](#bash-guides-and-scripts)
   1. [Python Guides and Scripts](#python-guides-and-scripts)
-  1. [Awk Guide](#awk-guide)
+  1. [Awk Guides](#awk-guides)
   1. [Automation Guides](#automation-guides)
   1. [Troubleshooting](#troubleshooting)
   1. [Backups](#backups)
@@ -106,7 +106,14 @@ http://jessenoller.com/blog/2009/02/01/python-threads-and-the-global-interpreter
 
 **[Back to top](#table-of-contents)**
 
-## Awk Guide
+## Awk Guides
+
+An introduction to Awk
+
+http://www.grymoire.com/Unix/Awk.html
+
+Text Processing examples with Awk
+
 http://techarena51.com/index.php/advance-text-processing-examples-awk/
 
 **[Back to top](#table-of-contents)**
