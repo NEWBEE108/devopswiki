@@ -1,5 +1,5 @@
 # DevopsWiki
-A wiki of Guides, Scripts, Tutorials related to devops 
+A wiki of Guides, Scripts, Tutorials related to devops
 
 ![Devops tools]
 (http://i.imgur.com/GFKIa7V.png)
@@ -119,6 +119,11 @@ Using Foreman, an Opensource Frontend for Puppet
 
 http://techarena51.com/index.php/using-foreman-opensource-frontend-puppet/
 
+
+Using StackStorm, an Opensource platform for integration and automation across services and tools.
+
+https://docs.stackstorm.com/overview.html#st2-overview
+
 **[Back to top](#table-of-contents)**
 
 ## Troubleshooting
@@ -223,16 +228,16 @@ http://techarena51.com/index.php/install-django-1-7-on-linux/
 
 ## C programming
 
-File I/O 
+File I/O
 
 http://gribblelab.org/CBootcamp/10_Input_and_Output.html
 
-C Programming Boot Camp 
+C Programming Boot Camp
 
 http://gribblelab.org/CBootcamp/
 
  Beej's Guide to Network Programming
- 
+
  https://beej.us/guide/bgnet/
 
 **[Back to top](#table-of-contents)**
