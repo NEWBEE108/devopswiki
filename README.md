@@ -144,6 +144,10 @@ https://docs.stackstorm.com/overview.html#st2-overview
 
 ##Git
 
+Getting started
+
+http://rogerdudler.github.io/git-guide/
+
 **[Back to top](#table-of-contents)**
 
 ## Troubleshooting
