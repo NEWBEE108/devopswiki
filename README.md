@@ -12,6 +12,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Python Guides and Scripts](#python-guides-and-scripts)
   1. [Awk Guides](#awk-guides)
   1. [Automation Guides](#automation-guides)
+  1. [Git](#git)
   1. [Troubleshooting](#troubleshooting)
   1. [Backups](#backups)
   1. [Email Server Configuration](#email-server-configuration)
@@ -138,6 +139,10 @@ http://techarena51.com/index.php/using-foreman-opensource-frontend-puppet/
 Using StackStorm, an Opensource platform for integration and automation across services and tools.
 
 https://docs.stackstorm.com/overview.html#st2-overview
+
+**[Back to top](#table-of-contents)**
+
+##Git
 
 **[Back to top](#table-of-contents)**
 
