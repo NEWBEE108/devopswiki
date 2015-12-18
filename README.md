@@ -297,6 +297,10 @@ Vim
 
 http://www.vim.org/about.php
 
+GNU Emacs
+
+https://www.gnu.org/software/emacs/
+
 **[Back to top](#table-of-contents)**
 
 
