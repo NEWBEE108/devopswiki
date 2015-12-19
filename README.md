@@ -292,7 +292,6 @@ Atom
 
 https://atom.io/docs/v0.196.0/getting-started-why-atom
 
-
 Vim
 
 http://www.vim.org/about.php
@@ -300,6 +299,10 @@ http://www.vim.org/about.php
 GNU Emacs
 
 https://www.gnu.org/software/emacs/
+
+Notepad++
+
+https://notepad-plus-plus.org/
 
 **[Back to top](#table-of-contents)**
 
