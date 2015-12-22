@@ -21,6 +21,10 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [C programming](#c-programming)
   1. [Data Structures](#data-structures)
   1. [Code Editors](#code-editors)
+  1. [Video Tutorials](#video-tutorials)
+  1. [Continuous Integration](#continuous-integration)
+  1. [Docker](#docker)
+  1. []
 
 
 ##Vim Cheat Sheet
@@ -303,6 +307,32 @@ https://www.gnu.org/software/emacs/
 Notepad++
 
 https://notepad-plus-plus.org/
+
+
+## Video Tutorials
+
+Sys Admin
+
+http://sysadmincasts.com
+
+Youtube Channel
+
+https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/feed
+
+
+## Continuous Integration
+
+Jenkins
+
+http://www.vogella.com/articles/Jenkins/article.html
+
+## Docker
+
+Docker
+
+http://blog.flux7.com/topic/docker
+
+
 
 **[Back to top](#table-of-contents)**
 
