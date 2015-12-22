@@ -308,6 +308,7 @@ Notepad++
 
 https://notepad-plus-plus.org/
 
+**[Back to top](#table-of-contents)**
 
 ## Video Tutorials
 
@@ -319,12 +320,15 @@ Youtube Channel
 
 https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/feed
 
+**[Back to top](#table-of-contents)**
 
 ## Continuous Integration
 
 Jenkins
 
 http://www.vogella.com/articles/Jenkins/article.html
+
+**[Back to top](#table-of-contents)**
 
 ## Docker
 
