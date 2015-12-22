@@ -121,6 +121,11 @@ http://techarena51.com/index.php/advance-text-processing-examples-awk/
 
 ##Automation Guides
 
+Configure, build, repeat. – using the 3bot platform.
+
+http://www.3bot.io/, [The 3bot Manual](https://github.com/3bot/The-3bot-Manual) 
+
+
 Automating Server Configs with Puppet
 
 http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
