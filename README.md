@@ -21,7 +21,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [C programming](#c-programming)
   1. [Data Structures](#data-structures)
   1. [Code Editors](#code-editors)
-  1. [Video Tutorials](#video-tuts)
+  1. [Video Tutorials](#video-tutorials)
   1. [Continuous Integration](#continuous-integration)
   1. [Docker](#docker)
   1. []
