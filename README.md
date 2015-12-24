@@ -236,7 +236,7 @@ Linux one second boot
 
 http://events.linuxfoundation.org/sites/events/files/slides/praesentation.pdf
 
-Installing your a VPN server on Linux
+Installing a VPN server on Linux
 
 http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/
 
@@ -251,6 +251,10 @@ http://techarena51.com/index.php/deploy-flask-on-ubuntu/
 Installing Django on Linux
 
 http://techarena51.com/index.php/install-django-1-7-on-linux/
+
+The Twelve-Factor Software-As-A-Service App building methodology
+
+http://12factor.net/
 
 **[Back to top](#table-of-contents)**
 
