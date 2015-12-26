@@ -57,6 +57,10 @@ http://techarena51.com/index.php/bash-scripting-tutorial-part-2/
 
 http://techarena51.com/index.php/a-beginners-guide-to-bash-scripting/
 
+Bash variable Expansion
+
+http://wiki.bash-hackers.org/syntax/pe
+
 Bash process substitution
 
 http://redpill-linpro.com/sysadvent/2015/12/12/bash-process-substitution.html
