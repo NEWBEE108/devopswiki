@@ -336,6 +336,10 @@ https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/feed
 
 ## Continuous Integration
 
+Travis
+
+https://docs.travis-ci.com/user/languages/python
+
 Jenkins
 
 http://www.vogella.com/articles/Jenkins/article.html
