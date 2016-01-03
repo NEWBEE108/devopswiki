@@ -115,6 +115,10 @@ Understanding Threading and the Global Interpreter Lock
 
 http://jessenoller.com/blog/2009/02/01/python-threads-and-the-global-interpreter-lock
 
+Packaging and Distributing Python Projects
+
+http://python-packaging-user-guide.readthedocs.org/en/latest/distributing/
+
 
 
 **[Back to top](#table-of-contents)**
