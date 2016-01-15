@@ -53,10 +53,6 @@ Building an RPM on CentOS
 
 http://techarena51.com/index.php/build-rpm-without-breaking-head/
 
-Using BUP a git based software to backup files
-
-http://techarena51.com/index.php/using-git-backup-website-files-on-linux/
-
 Bash Scripting Tutorials for Beginners
 
 http://techarena51.com/index.php/bash-scripting-tutorial-part-2/
@@ -171,9 +167,13 @@ https://docs.stackstorm.com/overview.html#st2-overview
 
 ##Git
 
-Getting started
+Git Quick Start
 
 http://rogerdudler.github.io/git-guide/
+
+Git Indepth Tutorial
+
+http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1
 
 **[Back to top](#table-of-contents)**
 
@@ -251,10 +251,6 @@ Linux System Calls
 
 http://www.digilife.be/quickreferences/qrc/linux%20system%20call%20quick%20reference.pdf
 
-Getting Started with Git
-
-http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1
-
 Linux one second boot
 
 http://events.linuxfoundation.org/sites/events/files/slides/praesentation.pdf
@@ -311,6 +307,14 @@ http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
 ## Code Editors
 
 
+Vim
+
+http://www.vim.org/about.php
+
+Atom
+
+https://atom.io/docs/v0.196.0/getting-started-why-atom
+
 Brackets
 
 http://brackets.io/
@@ -318,14 +322,6 @@ http://brackets.io/
 Sublime Text
 
 http://www.sublimetext.com/
-
-Atom
-
-https://atom.io/docs/v0.196.0/getting-started-why-atom
-
-Vim
-
-http://www.vim.org/about.php
 
 GNU Emacs
 
