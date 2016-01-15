@@ -79,6 +79,10 @@ http://redpill-linpro.com/sysadvent/2015/12/12/bash-process-substitution.html
 
 ## Python Guides and Scripts
 
+Learn Python By Automating the Boring Stuff
+
+https://automatetheboringstuff.com/
+
 Python 3 String Encoding and Formatting
 
 http://www.diveintopython3.net/strings.html
@@ -108,6 +112,7 @@ https://github.com/Leo-G/Flask-Scaffold
 Psutil a cross-platform Python library for retrieving information on running processes and system utilization (CPU, memory, disks, network) 
 
 https://pypi.python.org/pypi/psutil
+
 
 Automating web testing with Selenium
 
