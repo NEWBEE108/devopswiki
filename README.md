@@ -71,17 +71,21 @@ Bash process substitution
 
 http://redpill-linpro.com/sysadvent/2015/12/12/bash-process-substitution.html
 
+Bash Indepth Tutorial
+
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+
 **[Back to top](#table-of-contents)**
 
 ## Python Guides and Scripts
 
-Learn Python By Automating the Boring Stuff
-
-https://automatetheboringstuff.com/
-
 Python 3 String Encoding and Formatting
 
 http://www.diveintopython3.net/strings.html
+
+Python Local and Global Scopes
+
+https://automatetheboringstuff.com/chapter3/
 
 Building system monitoring apps in Python with Flask
 
@@ -97,7 +101,7 @@ http://techarena51.com/index.php/flask-sqlalchemy-tutorial/
 
 http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
-Token based Auth
+Token based Authentication with Pyjwt
 
 http://techarena51.com/index.php/json-web-token-authentication-with-flask-and-angularjs/
 
@@ -109,12 +113,11 @@ Psutil a cross-platform Python library for retrieving information on running pro
 
 https://pypi.python.org/pypi/psutil
 
-
 Automating web testing with Selenium
 
 http://techarena51.com/index.php/install-selenium-linux-automate-web-tests/
 
-Continously deploying your Flask/Python code  to your Linux production server with GitHub webhooks
+Flask Github Webhook Handler
 
 http://techarena51.com/index.php/flask-github-webhook-handler/
 
@@ -126,7 +129,9 @@ Packaging and Distributing Python Projects
 
 http://python-packaging-user-guide.readthedocs.org/en/latest/distributing/
 
+Python Indepth Tutorial
 
+https://automatetheboringstuff.com/
 
 **[Back to top](#table-of-contents)**
 
@@ -293,8 +298,6 @@ http://gribblelab.org/CBootcamp/
 
 **[Back to top](#table-of-contents)**
 
-
-
 ## Data Structures
 
 Stack vs Heap
@@ -303,9 +306,7 @@ http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
 
 **[Back to top](#table-of-contents)**
 
-
 ## Code Editors
-
 
 Vim
 
