@@ -11,6 +11,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Bash Guides and Scripts](#bash-guides-and-scripts)
   1. [Python Guides and Scripts](#python-guides-and-scripts)
   1. [Awk Guides](#awk-guides)
+  1. [Sed](#sed)
   1. [Automation Guides](#automation-guides)
   1. [Git](#git)
   1. [Troubleshooting](#troubleshooting)
@@ -24,8 +25,6 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Video Tutorials](#video-tutorials)
   1. [Continuous Integration](#continuous-integration)
   1. [Docker](#docker)
-  
-
 
 ##Vim
 
@@ -121,6 +120,10 @@ Flask Github Webhook Handler
 
 http://techarena51.com/index.php/flask-github-webhook-handler/
 
+Flask Web Sockets
+
+http://blog.miguelgrinberg.com/post/easy-websockets-with-flask-and-gevent
+
 Understanding Threading and the Global Interpreter Lock
 
 http://jessenoller.com/blog/2009/02/01/python-threads-and-the-global-interpreter-lock
@@ -144,6 +147,14 @@ http://www.grymoire.com/Unix/Awk.html
 Text Processing examples with Awk
 
 http://techarena51.com/index.php/advance-text-processing-examples-awk/
+
+**[Back to top](#table-of-contents)**
+
+## Sed
+
+An introduction and Tutorial
+
+http://www.grymoire.com/Unix/Sed.html
 
 **[Back to top](#table-of-contents)**
 
