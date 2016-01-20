@@ -12,6 +12,8 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Python Guides and Scripts](#python-guides-and-scripts)
   1. [Awk Guides](#awk-guides)
   1. [Sed](#sed)
+  1. [Perl](#perl)
+  1. [C](#c)
   1. [Automation Guides](#automation-guides)
   1. [Git](#git)
   1. [Troubleshooting](#troubleshooting)
@@ -19,7 +21,6 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Email Server Configuration](#email-server-configuration)
   1. [Firewall and Monitoring](#firewall-and-monitoring)
   1. [Miscellaneous](#miscellaneous)
-  1. [C programming](#c-programming)
   1. [Data Structures](#data-structures)
   1. [Code Editors](#code-editors)
   1. [Video Tutorials](#video-tutorials)
@@ -158,6 +159,36 @@ http://www.grymoire.com/Unix/Sed.html
 
 **[Back to top](#table-of-contents)**
 
+## Perl
+
+Perl Regex CheatSheet
+
+http://www.erudil.com/preqr.pdf
+
+http://www.rexegg.com/regex-quickstart.html
+
+Indepth Tutorial
+
+http://perlmaven.com/perl-tutorial
+
+**[Back to top](#table-of-contents)**
+
+## C
+
+File I/O
+
+http://gribblelab.org/CBootcamp/10_Input_and_Output.html
+
+C Programming Boot Camp
+
+http://gribblelab.org/CBootcamp/
+
+ Beej's Guide to Network Programming
+
+ https://beej.us/guide/bgnet/
+
+**[Back to top](#table-of-contents)**
+
 ##Automation Guides
 
 Automating Server Configs with Puppet
@@ -290,22 +321,6 @@ http://techarena51.com/index.php/install-django-1-7-on-linux/
 The Twelve-Factor Software-As-A-Service App building methodology
 
 http://12factor.net/
-
-**[Back to top](#table-of-contents)**
-
-## C programming
-
-File I/O
-
-http://gribblelab.org/CBootcamp/10_Input_and_Output.html
-
-C Programming Boot Camp
-
-http://gribblelab.org/CBootcamp/
-
- Beej's Guide to Network Programming
-
- https://beej.us/guide/bgnet/
 
 **[Back to top](#table-of-contents)**
 
