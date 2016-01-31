@@ -125,6 +125,8 @@ Configure, build, repeat. – using the 3bot platform.
 
 http://www.3bot.io/, [The 3bot Manual](https://github.com/3bot/The-3bot-Manual) 
 
+[Der maschinelle Kollege](https://www.arteria.ch/de/blog/3bot-der-maschinelle-kollege/), an article about using 3bot in German. 
+
 
 Automating Server Configs with Puppet
 
