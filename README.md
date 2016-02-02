@@ -26,6 +26,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Video Tutorials](#video-tutorials)
   1. [Continuous Integration](#continuous-integration)
   1. [Docker](#docker)
+  1. [Desktop Apps](#desktop-apps)
   1. [Devops Interview Questions](#devops-interview-questions)
 
 ##Vim
@@ -390,6 +391,14 @@ http://www.vogella.com/articles/Jenkins/article.html
 Docker
 
 http://blog.flux7.com/topic/docker
+
+**[Back to top](#table-of-contents)**
+
+## Desktop Apps
+
+Building Desktop apps on Linux with Electron
+
+http://electron.atom.io/#get-started
 
 **[Back to top](#table-of-contents)**
 
