@@ -9,7 +9,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
 
   1. [Vim](#vim)
   1. [Bash Guides and Scripts](#bash-guides-and-scripts)
-  1. [Python Guides and Scripts](#python-guides-and-scripts)
+  1. [Python](#python-guides-and-scripts)
   1. [Awk Guides](#awk-guides)
   1. [Sed](#sed)
   1. [Perl](#perl)
@@ -88,6 +88,10 @@ http://www.diveintopython3.net/strings.html
 Python Local and Global Scopes
 
 https://automatetheboringstuff.com/chapter3/
+
+Python Regex for beginners
+
+https://developers.google.com/edu/python/regular-expressions
 
 Building system monitoring apps in Python with Flask
 
