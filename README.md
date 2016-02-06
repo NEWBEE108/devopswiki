@@ -131,6 +131,10 @@ Flask Web Sockets
 
 http://blog.miguelgrinberg.com/post/easy-websockets-with-flask-and-gevent
 
+Sending Email with Python
+
+https://pythonhosted.org/Flask-Mail/
+
 Understanding Threading and the Global Interpreter Lock
 
 http://jessenoller.com/blog/2009/02/01/python-threads-and-the-global-interpreter-lock
