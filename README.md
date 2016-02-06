@@ -8,7 +8,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
 
 
   1. [Vim](#vim)
-  1. [Bash Guides and Scripts](#bash-guides-and-scripts)
+  1. [Bash](#bash-guides-and-scripts)
   1. [Python](#python-guides-and-scripts)
   1. [Awk Guides](#awk-guides)
   1. [Sed](#sed)
@@ -40,6 +40,10 @@ Vim Regular Expressions 101
 http://vimregex.com/
 
 ## Bash Guides and Scripts
+
+Useful bash one-liners
+
+https://github.com/stephenturner/oneliners
 
 Real time file syncing daemon with inotify tools
 
