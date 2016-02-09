@@ -121,13 +121,6 @@ http://techarena51.com/index.php/advance-text-processing-examples-awk/
 
 ##Automation Guides
 
-Configure, build, repeat. – using the 3bot platform.
-
-http://www.3bot.io/, [The 3bot Manual](https://github.com/3bot/The-3bot-Manual) 
-
-[Der maschinelle Kollege](https://www.arteria.ch/de/blog/3bot-der-maschinelle-kollege/), an article about using 3bot in German. 
-
-
 Automating Server Configs with Puppet
 
 http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
@@ -146,6 +139,12 @@ http://techarena51.com/index.php/using-foreman-opensource-frontend-puppet/
 Using StackStorm, an Opensource platform for integration and automation across services and tools.
 
 https://docs.stackstorm.com/overview.html#st2-overview
+
+
+Configure, build, repeat. – using the 3bot platform.
+
+[Der maschinelle Kollege](https://www.arteria.ch/de/blog/3bot-der-maschinelle-kollege/), an article about using 3bot in German. 
+
 
 **[Back to top](#table-of-contents)**
 
