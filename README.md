@@ -238,6 +238,12 @@ Using StackStorm, an Opensource platform for integration and automation across s
 
 https://docs.stackstorm.com/overview.html#st2-overview
 
+
+Configure, build, repeat. – using the 3bot platform.
+
+[Der maschinelle Kollege](https://www.arteria.ch/de/blog/3bot-der-maschinelle-kollege/), an article about using 3bot in German. 
+
+
 **[Back to top](#table-of-contents)**
 
 ##Git
