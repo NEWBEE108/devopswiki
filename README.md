@@ -8,6 +8,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
 
 
   1. [Vim](#vim)
+  1. [Tmux](#tmux)
   1. [Bash](#bash-guides-and-scripts)
   1. [Python](#python-guides-and-scripts)
   1. [Awk Guides](#awk-guides)
@@ -38,6 +39,16 @@ http://michael.peopleofhonoronly.com/vim/
 Vim Regular Expressions 101
 
 http://vimregex.com/
+
+##Tmux
+
+A Quick and Easy Guide to Tmux
+
+http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
+
+Tmux Shortcuts and Cheat Sheet
+
+https://gist.github.com/MohamedAlaa/2961058
 
 ## Bash Guides and Scripts
 
