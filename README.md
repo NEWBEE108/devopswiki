@@ -30,7 +30,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Desktop Apps](#desktop-apps)
   1. [Devops Interview Questions](#devops-interview-questions)
 
-##Vim
+## Vim
 
 Vim Cheat Sheet
 
@@ -40,7 +40,7 @@ Vim Regular Expressions 101
 
 http://vimregex.com/
 
-##Tmux
+## Tmux
 
 Tmux is a "terminal multiplexer", it enables a number of terminals (or windows)
 to be accessed and controlled from a single terminal. It can be installed via sudo apt-get install tmux.
