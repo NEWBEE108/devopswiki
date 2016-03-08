@@ -161,6 +161,10 @@ Packaging and Distributing Python Projects
 
 http://python-packaging-user-guide.readthedocs.org/en/latest/distributing/
 
+Serving Python with Uwsgi 
+
+http://uwsgi-docs.readthedocs.org/en/latest/WSGIquickstart.html
+
 Python Indepth Tutorial
 
 https://automatetheboringstuff.com/
