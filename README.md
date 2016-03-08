@@ -227,6 +227,8 @@ http://gribblelab.org/CBootcamp/
 
 [Using UI-Router for Client side routing](https://github.com/angular-ui/ui-router/wiki/URL-Routing)
 
+[Token Based Authentication with Satellizer](http://techarena51.com/index.php/json-web-token-authentication-with-flask-and-angularjs/)
+
 [21 Javascript Answers on Quora Every Developer Must Read](https://josecasanova.com/blog/21-javascript-answers-on-quora-every-developer-must-read/)
 
 [Visualizing data with D3.js](http://alignedleft.com/tutorials/d3)
