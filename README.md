@@ -15,6 +15,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Sed](#sed)
   1. [Perl](#perl)
   1. [C](#c)
+  1. [Javscript](#javascript)
   1. [Automation Guides](#automation-guides)
   1. [Git](#git)
   1. [Troubleshooting](#troubleshooting)
@@ -27,7 +28,6 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Video Tutorials](#video-tutorials)
   1. [Continuous Integration](#continuous-integration)
   1. [Docker](#docker)
-  1. [Desktop Apps](#desktop-apps)
   1. [Devops Interview Questions](#devops-interview-questions)
 
 ## Vim
@@ -214,6 +214,34 @@ http://gribblelab.org/CBootcamp/
  Beej's Guide to Network Programming
 
  https://beej.us/guide/bgnet/
+
+**[Back to top](#table-of-contents)**
+
+## Javascript
+
+[Quick Getting start with JS](http://www.freecodecamp.com/map)
+
+[JS Concepts ( Closures, Falsy, Functions, Immutable, Loops, Scope, Ternary, Truthy, Arrays)](https://github.com/freecodecamp/freecodecamp/wiki/js-closures)
+
+[Making API calls with ngResource] (https://docs.angularjs.org/api/ngResource)
+
+[Using UI-Router for Client side routing](https://github.com/angular-ui/ui-router/wiki/URL-Routing)
+
+[21 Javascript Answers on Quora Every Developer Must Read](https://josecasanova.com/blog/21-javascript-answers-on-quora-every-developer-must-read/)
+
+[Visualizing data with D3.js](http://alignedleft.com/tutorials/d3)
+
+[Websockets with Socket.io](http://socket.io/get-started/)
+
+[JS indepth Tutorial and Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+
+[Server side JS with Nodejs](https://nodejs.org/dist/latest-v4.x/docs/api/)
+
+[Cross Platform Desktop apps with Electron](http://electron.atom.io/#get-started)
+
+[End to End Testing with Protractor](https://angular.github.io/protractor/#/tutorial)
+
+[JS resources](https://github.com/freecodecamp/freecodecamp/wiki/js-resources)
 
 **[Back to top](#table-of-contents)**
 
@@ -423,14 +451,6 @@ http://www.vogella.com/articles/Jenkins/article.html
 Docker
 
 http://blog.flux7.com/topic/docker
-
-**[Back to top](#table-of-contents)**
-
-## Desktop Apps
-
-Building Desktop apps on Linux with Electron
-
-http://electron.atom.io/#get-started
 
 **[Back to top](#table-of-contents)**
 
