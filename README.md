@@ -15,7 +15,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Sed](#sed)
   1. [Perl](#perl)
   1. [C](#c)
-  1. [Javscript](#javascript)
+  1. [Javascript](#javascript)
   1. [Automation Guides](#automation-guides)
   1. [Git](#git)
   1. [Troubleshooting](#troubleshooting)
