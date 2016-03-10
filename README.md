@@ -442,13 +442,11 @@ https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/feed
 
 ## Continuous Integration
 
-Travis
+[Deploying Code at Netflix]( http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html)
 
-https://docs.travis-ci.com/user/languages/python
+[Travis-CI Tutorial] (https://docs.travis-ci.com/user/languages/python)
 
-Jenkins
-
-http://www.vogella.com/articles/Jenkins/article.html
+[Jenkins Tutorial](http://www.vogella.com/articles/Jenkins/article.html)
 
 **[Back to top](#table-of-contents)**
 
