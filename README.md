@@ -45,6 +45,8 @@ http://vimregex.com/
 Tmux is a "terminal multiplexer", it enables a number of terminals (or windows)
 to be accessed and controlled from a single terminal. It can be installed via sudo apt-get install tmux.
 
+> `tmux` is a "terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. It can be installed via `sudo apt-get install tmux`
+
 A Quick and Easy Guide to Tmux
 
 http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
