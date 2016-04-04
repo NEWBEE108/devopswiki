@@ -42,9 +42,6 @@ http://vimregex.com/
 
 ## Tmux
 
-Tmux is a "terminal multiplexer", it enables a number of terminals (or windows)
-to be accessed and controlled from a single terminal. It can be installed via sudo apt-get install tmux.
-
 > `tmux` is a "terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. It can be installed via `sudo apt-get install tmux`
 
 A Quick and Easy Guide to Tmux
@@ -251,6 +248,8 @@ http://gribblelab.org/CBootcamp/
 
 [JS resources](https://github.com/freecodecamp/freecodecamp/wiki/js-resources)
 
+[Linux Server Visualization using Websockets and Google style Gauges](http://techarena51.com/index.php/real-time-linux-server-monitoring-with-node-js-socket-io-and-d3-js-gauges/)
+
 **[Back to top](#table-of-contents)**
 
 ##Automation Guides
@@ -296,21 +295,15 @@ http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1
 
 ## Troubleshooting
 
-Troubleshooting Linux Server Memory Usage
+[Troubleshooting Linux Server Memory Usage](http://techarena51.com/index.php/linux-memory-usage/)
 
-http://techarena51.com/index.php/linux-memory-usage/
+[How Linux CPU usage is Calculated](https://github.com/Leo-G/DevopsWiki/wiki/How-Linux-CPU-usage-time-and-Percentage-can-be-calculated)
 
-Troubleshooting Programs on Linux with Strace
+[Debugging Programs on Linux with Strace](http://www.redpill-linpro.com/sysadvent//2015/12/10/introduction-to-strace.html)
 
-http://www.redpill-linpro.com/sysadvent//2015/12/10/introduction-to-strace.html
+[Continous Monitoring with the Watch command](http://techarena51.com/index.php/watch-command-linux/)
 
-Using Watch to continously Monitor a command
-
-http://techarena51.com/index.php/watch-command-linux/
-
-Troubleshooting  with Tcpdump
-
-http://techarena51.com/index.php/tcpdump-examples-to-capture-passwords/
+[Troubleshooting Network issues  with Tcpdump](http://techarena51.com/index.php/tcpdump-examples-to-capture-passwords/)
 
 **[Back to top](#table-of-contents)**
 
