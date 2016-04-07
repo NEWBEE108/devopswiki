@@ -17,7 +17,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Perl](#perl)
   1. [C](#c)
   1. [Javascript](#javascript)
-  1. [Linux](#Linux)
+  1. [Linux](#linux)
   1. [Automation Guides](#automation-guides)
   1. [Backups](#backups)
   1. [Email Server Configuration](#email-server-configuration)
@@ -170,7 +170,7 @@ https://automatetheboringstuff.com/
 
 **[Back to top](#table-of-contents)**
 
-## Awk Guides
+## Awk
 
 An introduction to Awk
 
