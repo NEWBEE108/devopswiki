@@ -9,20 +9,20 @@ A wiki of Guides, Scripts, Tutorials related to devops
 
   1. [Vim](#vim)
   1. [Tmux](#tmux)
+  1. [Git](#git)
   1. [Bash](#bash-guides-and-scripts)
   1. [Python](#python-guides-and-scripts)
-  1. [Awk Guides](#awk-guides)
+  1. [Awk](#awk)
   1. [Sed](#sed)
   1. [Perl](#perl)
   1. [C](#c)
   1. [Javascript](#javascript)
+  1. [Linux](#Linux)
   1. [Automation Guides](#automation-guides)
-  1. [Git](#git)
-  1. [Troubleshooting](#troubleshooting)
   1. [Backups](#backups)
   1. [Email Server Configuration](#email-server-configuration)
   1. [Firewall and Monitoring](#firewall-and-monitoring)
-  1. [Miscellaneous](#miscellaneous)
+  1. [Philosophy](#philosophy)
   1. [Data Structures](#data-structures)
   1. [Code Editors](#code-editors)
   1. [Video Tutorials](#video-tutorials)
@@ -32,25 +32,25 @@ A wiki of Guides, Scripts, Tutorials related to devops
 
 ## Vim
 
-Vim Cheat Sheet
+[Vim Cheat Sheet](http://michael.peopleofhonoronly.com/vim/)
 
-http://michael.peopleofhonoronly.com/vim/
-
-Vim Regular Expressions 101
-
-http://vimregex.com/
+[Vim Regular Expressions 101](http://vimregex.com/)
 
 ## Tmux
 
 > `tmux` is a "terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. It can be installed via `sudo apt-get install tmux`
 
-A Quick and Easy Guide to Tmux
+[A Quick and Easy Guide to Tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 
-http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
+[Tmux Shortcuts and Cheat Sheet](https://gist.github.com/MohamedAlaa/2961058)
 
-Tmux Shortcuts and Cheat Sheet
+## Git
 
-https://gist.github.com/MohamedAlaa/2961058
+[Git Quick Start](http://rogerdudler.github.io/git-guide/)
+
+[Git Indepth Tutorial](http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1)
+
+**[Back to top](#table-of-contents)**
 
 ## Bash Guides and Scripts
 
@@ -252,58 +252,60 @@ http://gribblelab.org/CBootcamp/
 
 **[Back to top](#table-of-contents)**
 
-##Automation Guides
+## Automation Guides
 
 Automating Server Configs with Puppet
 
 http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
 
-
 Automating Server Configs with the SaltStack
 
 http://techarena51.com/index.php/getting-started-with-saltstack/
-
 
 Using Foreman, an Opensource Frontend for Puppet
 
 http://techarena51.com/index.php/using-foreman-opensource-frontend-puppet/
 
-
 Using StackStorm, an Opensource platform for integration and automation across services and tools.
 
 https://docs.stackstorm.com/overview.html#st2-overview
-
 
 Configure, build, repeat. – using the 3bot platform.
 
 [Der maschinelle Kollege](https://www.arteria.ch/de/blog/3bot-der-maschinelle-kollege/), an article about using 3bot in German. 
 
-
 **[Back to top](#table-of-contents)**
 
-##Git
+## Linux
 
-Git Quick Start
+[Getting Started with Linux](http://computefreely.org/)
 
-http://rogerdudler.github.io/git-guide/
+### Beginner Guides
 
-Git Indepth Tutorial
+[Installing a VPN server on Linux](http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/)
 
-http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1
+[Installing Ruby on Rails on Linux](http://techarena51.com/index.php/how-to-install-ruby-ruby-on-rails-and-phusion-passenger-on-centos/)
 
-**[Back to top](#table-of-contents)**
+[Installing Gunicorn on Linux](http://techarena51.com/index.php/deploy-flask-on-ubuntu/)
 
-## Troubleshooting
+[Installing Django on Linux](http://techarena51.com/index.php/install-django-1-7-on-linux/)
 
-[Troubleshooting Linux Server Memory Usage](http://techarena51.com/index.php/linux-memory-usage/)
+[Troubleshooting Linux Server Memory Usage with PS_MEM](http://techarena51.com/index.php/linux-memory-usage/)
+
+[Troubleshooting Network issues  with Tcpdump](http://techarena51.com/index.php/tcpdump-examples-to-capture-passwords/)
+
+### Advance
 
 [How Linux CPU usage is Calculated](https://github.com/Leo-G/DevopsWiki/wiki/How-Linux-CPU-usage-time-and-Percentage-can-be-calculated)
 
+[Linux System Calls](http://www.digilife.be/quickreferences/qrc/linux%20system%20call%20quick%20reference.pdf)
+
+[Linux One Second Boot](http://events.linuxfoundation.org/sites/events/files/slides/praesentation.pdf)
+
 [Debugging Programs on Linux with Strace](http://www.redpill-linpro.com/sysadvent//2015/12/10/introduction-to-strace.html)
 
-[Continous Monitoring with the Watch command](http://techarena51.com/index.php/watch-command-linux/)
+[Continously Monitoring Processes on Linux with the Watch command](http://techarena51.com/index.php/watch-command-linux/)
 
-[Troubleshooting Network issues  with Tcpdump](http://techarena51.com/index.php/tcpdump-examples-to-capture-passwords/)
 
 **[Back to top](#table-of-contents)**
 
@@ -355,35 +357,11 @@ http://techarena51.com/index.php/how-to-install-monit-monitoring-service-on-your
 
 **[Back to top](#table-of-contents)**
 
-## Miscellaneous
+## Philosophy
 
-Linux System Calls
+[Top Ten Tenets of a System Administrator](https://github.com/Leo-G/DevopsWiki/wiki/Top-10-tenets-of-a-System-Administrator)
 
-http://www.digilife.be/quickreferences/qrc/linux%20system%20call%20quick%20reference.pdf
-
-Linux one second boot
-
-http://events.linuxfoundation.org/sites/events/files/slides/praesentation.pdf
-
-Installing a VPN server on Linux
-
-http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/
-
-Installing Ruby on Rails on Linux
-
-http://techarena51.com/index.php/how-to-install-ruby-ruby-on-rails-and-phusion-passenger-on-centos/
-
-Installing Gunicorn on Linux
-
-http://techarena51.com/index.php/deploy-flask-on-ubuntu/
-
-Installing Django on Linux
-
-http://techarena51.com/index.php/install-django-1-7-on-linux/
-
-The Twelve-Factor Software-As-A-Service App building methodology
-
-http://12factor.net/
+[The Twelve-Factor Software-As-A-Service App building methodology](http://12factor.net/)
 
 **[Back to top](#table-of-contents)**
 
