@@ -359,7 +359,7 @@ http://techarena51.com/index.php/how-to-install-monit-monitoring-service-on-your
 
 ## Philosophy
 
-[Top Ten Tenets (Principles) of a System Administrator](https://github.com/Leo-G/DevopsWiki/wiki/Top-10-Tenets-(Principles)-of-a-System-Administrator)
+[Top Ten Tenets (Principles) of a System Administrator](https://github.com/Leo-G/DevopsWiki/wiki/Top-10-tenets-of-a-System-Administrator)
 
 [The Twelve-Factor Software-As-A-Service App building methodology](http://12factor.net/)
 
