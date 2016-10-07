@@ -87,6 +87,8 @@ http://techarena51.com/index.php/a-beginners-guide-to-bash-scripting/
 
 [Bash Indepth Tutorial](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 
+[Advancing in the Bash Shell](http://samrowe.com/wordpress/advancing-in-the-bash-shell/)
+
 **[Back to top](#table-of-contents)**
 
 ## Python Guides and Scripts
