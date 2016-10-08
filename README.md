@@ -360,4 +360,6 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 
 [Turtles on the wire: understanding how the OS uses the modern NIC](https://www.joyent.com/blog/virtualizing-nics)
 
+[Working with Network Configurations from the Command Line](https://www.linux.com/learn/working-network-configurations-command-line)
+
 **[Back to top](#table-of-contents)**
