@@ -65,6 +65,8 @@ Table of Contents
 
 [Git Indepth Tutorial](http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1)
 
+[What is Git? (Series)](https://opensource.com/resources/what-is-git)
+
 **[Back to top](#table-of-contents)**
 
 ## Bash Guides and Scripts
