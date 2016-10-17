@@ -46,6 +46,9 @@ Table of Contents
       - [Continuous Integration](#continuous-integration)
       - [Docker](#docker)
       - [Devops Interview Questions](#devops-interview-questions)
+      
+ 9. Networking
+      - [Networking Guides](#networking-guides)
 
 
 ## Tmux
@@ -61,6 +64,8 @@ Table of Contents
 [Git Quick Start](http://rogerdudler.github.io/git-guide/)
 
 [Git Indepth Tutorial](http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1)
+
+[What is Git? (Series)](https://opensource.com/resources/what-is-git)
 
 **[Back to top](#table-of-contents)**
 
@@ -263,6 +268,8 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 [Configuring a Firewall for linux with CSF and LFD](http://techarena51.com/index.php/how-to-configure-and-install-config-server-firewall-login-failure-daemon/)
 
+[Hardening Debian for the Desktop Using Grsecurity](https://micahflee.com/2016/01/debian-grsecurity/)
+
 **[Back to top](#table-of-contents)**
 
 
@@ -351,3 +358,10 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 
 **[Back to top](#table-of-contents)**
 
+## Networking Guides
+
+[Turtles on the wire: understanding how the OS uses the modern NIC](https://www.joyent.com/blog/virtualizing-nics)
+
+[Working with Network Configurations from the Command Line](https://www.linux.com/learn/working-network-configurations-command-line)
+
+**[Back to top](#table-of-contents)**
