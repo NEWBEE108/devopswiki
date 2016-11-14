@@ -356,6 +356,8 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 
 [Spanish Docker Guide](https://github.com/brunocascio/docker-espanol)
 
+[Introduction to Docker](https://medium.com/@BuddyWorks/introduction-to-docker-a7d9e1f6c0b3#.59y3faia9)
+
 **[Back to top](#table-of-contents)**
 
 ## Networking Guides
