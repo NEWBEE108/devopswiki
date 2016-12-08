@@ -349,12 +349,13 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 **[Back to top](#table-of-contents)**
 
 
-
 ## [Docker](http://docker.com)
 
 [English Docker Guides and Tutorials](http://blog.flux7.com/topic/docker)
 
 [Spanish Docker Guide](https://github.com/brunocascio/docker-espanol)
+
+[Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 
 **[Back to top](#table-of-contents)**
 
