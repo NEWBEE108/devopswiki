@@ -337,7 +337,10 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 [Top Ten Tenets (Principles) of a System Administrator](https://github.com/Leo-G/DevopsWiki/wiki/Top-10-tenets-of-a-System-Administrator)
 
+[IT Career/Job Advice ](http://www.network-node.com/blog/2016/5/19/careerjob-advice-and-observations)
+
 [The Twelve-Factor Software-As-A-Service App building methodology](http://12factor.net/)
+
 
 **[Back to top](#table-of-contents)**
 
