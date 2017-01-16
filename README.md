@@ -47,7 +47,7 @@ Table of Contents
       - [Docker](#docker)
       - [Devops Interview Questions](#devops-interview-questions)
       
- 9. Networking
+  9. Networking
       - [Networking Guides](#networking-guides)
 
 
@@ -292,26 +292,26 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 ## Data Structures
 
- - [Stack vs Heap](http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html)
+ [Stack vs Heap](http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html)
 
 **[Back to top](#table-of-contents)**
 
 ## Code Editors
   
-  - [Vim](http://www.vim.org)
+  [Vim](http://www.vim.org)
     - [Vim Cheat Sheet](http://michael.peopleofhonoronly.com/vim/)
     - [Vim Regular Expressions 101](http://vimregex.com/)
 
 
-- [Atom](https://atom.io/docs/v0.196.0/getting-started-why-atom)
+[Atom](https://atom.io/docs/v0.196.0/getting-started-why-atom)
 
-- [Brackets](http://brackets.io/)
+[Brackets](http://brackets.io/)
 
-- [Sublime Text](http://www.sublimetext.com/)
+[Sublime Text](http://www.sublimetext.com/)
 
-- [GNU Emacs](https://www.gnu.org/software/emacs/)
+[GNU Emacs](https://www.gnu.org/software/emacs/)
 
-- [Notepad++](https://notepad-plus-plus.org/)
+[Notepad++](https://notepad-plus-plus.org/)
 
 **[Back to top](#table-of-contents)**
 
@@ -337,7 +337,10 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 [Top Ten Tenets (Principles) of a System Administrator](https://github.com/Leo-G/DevopsWiki/wiki/Top-10-tenets-of-a-System-Administrator)
 
+[IT Career/Job Advice ](http://www.network-node.com/blog/2016/5/19/careerjob-advice-and-observations)
+
 [The Twelve-Factor Software-As-A-Service App building methodology](http://12factor.net/)
+
 
 **[Back to top](#table-of-contents)**
 
@@ -349,8 +352,7 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 **[Back to top](#table-of-contents)**
 
 
-
-## [Docker](http://docker.com)
+## [Docker]
 
 [English Docker Guides and Tutorials](http://blog.flux7.com/topic/docker)
 
@@ -358,12 +360,18 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 
 [Introduction to Docker](https://medium.com/@BuddyWorks/introduction-to-docker-a7d9e1f6c0b3#.59y3faia9)
 
+[Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
+
+
 **[Back to top](#table-of-contents)**
+
 
 ## Networking Guides
 
 [Turtles on the wire: understanding how the OS uses the modern NIC](https://www.joyent.com/blog/virtualizing-nics)
 
 [Working with Network Configurations from the Command Line](https://www.linux.com/learn/working-network-configurations-command-line)
+
+[Monitoring and Tuning the Linux Networking Stack](http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/#general-advice-on-monitoring-and-tuning-the-linux-networking-stack)
 
 **[Back to top](#table-of-contents)**
