@@ -8,22 +8,26 @@ A wiki of Guides, Scripts, Tutorials related to devops
 Table of Contents
 -----------------
 
-  1. Programming
+  1. Operating Systems
+  
+      - [Linux](#linux)
 
-      - [Perl](#perl)
-      - [C](#c)
+  2. Command Line
+  
+      - [Bash](#bash-guides-and-scripts)
+      - [Tmux](#tmux)
+      - [Awk](#awk)
+      - [Sed](#sed)
+
+  3. Programming
+
       - [Python](#python-guides-and-scripts)
-      - [Javascript](#javascript)
+      - [Javascript](#javascript)      
+      - [C](#c)
+      - [Perl](#perl)      
       
-  2. Source Control
+  4. Source Control
      - [Git](#git)
-
-  3. Terminal
-     - [Bash](#bash-guides-and-scripts)
-     - [Tmux](#tmux)
-
-  4. Operating Systems
-     - [Linux](#linux)
 
   5. Editors
      - [Vim](#vim)
@@ -35,8 +39,7 @@ Table of Contents
       - [Automation Guides](#automation-guides)
 
   8. Other Bits
-      - [Awk](#awk)
-      - [Sed](#sed)
+ 
       - [Backups](#backups)
       - [Email Server Configuration](#email-server-configuration)
       - [Firewall and Monitoring](#firewall-and-monitoring)
@@ -49,6 +52,43 @@ Table of Contents
       
   9. Networking
       - [Networking Guides](#networking-guides)
+      
+      
+           
+## Linux
+
+[Getting Started with Linux](http://computefreely.org/)
+
+### Beginner Guides
+
+[Installing a VPN server on Linux](http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/)
+
+[Installing Ruby on Rails on Linux](http://techarena51.com/index.php/how-to-install-ruby-ruby-on-rails-and-phusion-passenger-on-centos/)
+
+[Installing Gunicorn on Linux](http://techarena51.com/index.php/deploy-flask-on-ubuntu/)
+
+[Installing Django on Linux](http://techarena51.com/index.php/install-django-1-7-on-linux/)
+
+[Troubleshooting Linux Server Memory Usage with PS_MEM](http://techarena51.com/index.php/linux-memory-usage/)
+
+[Troubleshooting Network issues  with Tcpdump](http://techarena51.com/index.php/tcpdump-examples-to-capture-passwords/)
+
+### Advance
+
+[Linux Perfomance Analysis with Brendan Gregg](http://www.brendangregg.com/linuxperf.html)
+
+[How Linux CPU usage is Calculated](https://github.com/Leo-G/DevopsWiki/wiki/How-Linux-CPU-Usage-Time-and-Percentage-is-calculated)
+
+[Linux System Calls](http://www.digilife.be/quickreferences/qrc/linux%20system%20call%20quick%20reference.pdf)
+
+[Linux One Second Boot](http://events.linuxfoundation.org/sites/events/files/slides/praesentation.pdf)
+
+[Debugging Programs on Linux with Strace](http://www.redpill-linpro.com/sysadvent//2015/12/10/introduction-to-strace.html)
+
+[Continously Monitoring Processes on Linux with the Watch command](http://techarena51.com/index.php/watch-command-linux/)
+
+
+**[Back to top](#table-of-contents)**
 
 
 ## Tmux
@@ -216,38 +256,6 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 **[Back to top](#table-of-contents)**
 
-## Linux
-
-[Getting Started with Linux](http://computefreely.org/)
-
-### Beginner Guides
-
-[Installing a VPN server on Linux](http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/)
-
-[Installing Ruby on Rails on Linux](http://techarena51.com/index.php/how-to-install-ruby-ruby-on-rails-and-phusion-passenger-on-centos/)
-
-[Installing Gunicorn on Linux](http://techarena51.com/index.php/deploy-flask-on-ubuntu/)
-
-[Installing Django on Linux](http://techarena51.com/index.php/install-django-1-7-on-linux/)
-
-[Troubleshooting Linux Server Memory Usage with PS_MEM](http://techarena51.com/index.php/linux-memory-usage/)
-
-[Troubleshooting Network issues  with Tcpdump](http://techarena51.com/index.php/tcpdump-examples-to-capture-passwords/)
-
-### Advance
-
-[How Linux CPU usage is Calculated](https://github.com/Leo-G/DevopsWiki/wiki/How-Linux-CPU-usage-time-and-Percentage-can-be-calculated)
-
-[Linux System Calls](http://www.digilife.be/quickreferences/qrc/linux%20system%20call%20quick%20reference.pdf)
-
-[Linux One Second Boot](http://events.linuxfoundation.org/sites/events/files/slides/praesentation.pdf)
-
-[Debugging Programs on Linux with Strace](http://www.redpill-linpro.com/sysadvent//2015/12/10/introduction-to-strace.html)
-
-[Continously Monitoring Processes on Linux with the Watch command](http://techarena51.com/index.php/watch-command-linux/)
-
-
-**[Back to top](#table-of-contents)**
 
 ## Backups
 
