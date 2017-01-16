@@ -352,15 +352,18 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 **[Back to top](#table-of-contents)**
 
 
-## [Docker](http://docker.com)
+## [Docker]
 
 [English Docker Guides and Tutorials](http://blog.flux7.com/topic/docker)
 
 [Spanish Docker Guide](https://github.com/brunocascio/docker-espanol)
 
+[Introduction to Docker](https://medium.com/@BuddyWorks/introduction-to-docker-a7d9e1f6c0b3#.59y3faia9)
+
 [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 
 [Understanding Docker Networking Drivers and their use cases](https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/)
+
 
 **[Back to top](#table-of-contents)**
 
