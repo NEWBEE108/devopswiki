@@ -53,6 +53,8 @@ Table of Contents
   9. Networking
       - [Networking Guides](#networking-guides)
       
+  10. [Machine Learning](#machine-learning)
+      
       
            
 ## Linux
@@ -383,5 +385,19 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 [Working with Network Configurations from the Command Line](https://www.linux.com/learn/working-network-configurations-command-line)
 
 [Monitoring and Tuning the Linux Networking Stack](http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/#general-advice-on-monitoring-and-tuning-the-linux-networking-stack)
+
+**[Back to top](#table-of-contents)**
+
+## Machine Learning 
+
+[What is Machine Learning?](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+
+[Getting Started with Machine Learning on Linux with Python](https://techarena51.com/index.php/getting-started-machine-learning-linux-python-3-scikit-learn/?utm_source=devopswiki)
+
+[Which Machine Learning Algorithm you should use and when](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+
+[Using Machine Learning for Image Recoginition](https://www.tensorflow.org/tutorials/image_recognition/)
+
+[Introduction to Natural Language Processing with Python](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)
 
 **[Back to top](#table-of-contents)**
