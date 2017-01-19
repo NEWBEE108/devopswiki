@@ -29,8 +29,7 @@ Table of Contents
   4. Source Control
      - [Git](#git)
 
-  5. Editors
-     - [Vim](#vim)
+  5. Editors   
      - [Code Editors](#code-editors)
   
   6. [Security](#security)
