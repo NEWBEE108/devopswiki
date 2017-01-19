@@ -18,6 +18,7 @@ Table of Contents
       - [Tmux](#tmux)
       - [Awk](#awk)
       - [Sed](#sed)
+      - [Vim (Editor)](#vim)
 
   3. Programming
 
@@ -305,12 +306,15 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 **[Back to top](#table-of-contents)**
 
-## Code Editors
-  
-  [Vim](http://www.vim.org)
-    - [Vim Cheat Sheet](http://michael.peopleofhonoronly.com/vim/)
-    - [Vim Regular Expressions 101](http://vimregex.com/)
+## Vim
 
+  [Vim Cheat Sheet](http://michael.peopleofhonoronly.com/vim/)
+    
+  [Vim Regular Expressions 101](http://vimregex.com/)
+  
+  [Home Page](http://www.vim.org)  
+
+## Code Editors
 
 [Atom](https://atom.io/docs/v0.196.0/getting-started-why-atom)
 
