@@ -302,7 +302,7 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 ## Data Structures
 
- [Stack vs Heap](http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html)
+
 
 **[Back to top](#table-of-contents)**
 
