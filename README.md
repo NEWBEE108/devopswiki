@@ -326,6 +326,8 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 [Notepad++](https://notepad-plus-plus.org/)
 
+[VS Code](https://code.visualstudio.com/)
+
 **[Back to top](#table-of-contents)**
 
 ## Video Tutorials
