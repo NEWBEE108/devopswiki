@@ -63,17 +63,17 @@ Table of Contents
 
 ### Beginner Guides
 
-[Installing a VPN server on Linux](http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/)
+[Installing a VPN server on Linux](http://techarena51.com/blog/how-to-install-an-opensource-vpn-server-on-linux/?utm_source=devopswiki)
 
-[Installing Ruby on Rails on Linux](http://techarena51.com/index.php/how-to-install-ruby-ruby-on-rails-and-phusion-passenger-on-centos/)
+[Installing Ruby on Rails on Linux](http://techarena51.com/blog/how-to-install-ruby-ruby-on-rails-and-phusion-passenger-on-centos/?utm_source=devopswiki)
 
-[Installing Gunicorn on Linux](http://techarena51.com/index.php/deploy-flask-on-ubuntu/)
+[Installing Gunicorn on Linux](http://techarena51.com/blog/deploy-flask-on-ubuntu/?utm_source=devopswiki)
 
-[Installing Django on Linux](http://techarena51.com/index.php/install-django-1-7-on-linux/)
+[Installing Django on Linux](http://techarena51.com/blog/install-django-1-7-on-linux/?utm_source=devopswiki)
 
-[Troubleshooting Linux Server Memory Usage with PS_MEM](http://techarena51.com/index.php/linux-memory-usage/)
+[Troubleshooting Linux Server Memory Usage with PS_MEM](http://techarena51.com/blog/linux-memory-usage/?utm_source=devopswiki)
 
-[Troubleshooting Network issues  with Tcpdump](http://techarena51.com/index.php/tcpdump-examples-to-capture-passwords/)
+[Troubleshooting Network issues  with Tcpdump](http://techarena51.com/blog/tcpdump-examples-to-capture-passwords/?utm_source=devopswiki)
 
 ### Advance
 
@@ -116,15 +116,16 @@ Table of Contents
 [Useful bash one-liners](https://github.com/stephenturner/oneliners)
 
 [Real time file syncing daemon with inotify tools](https://github.com/Leo-G/backup-bash)
-[inotify tools example](http://techarena51.com/index.php/inotify-tools-example/)
 
-[Creating Init/Systemd Scripts](http://techarena51.com/index.php/how-to-create-an-init-script-on-centos-6/)
+[inotify tools example](http://techarena51.com/blog/inotify-tools-example/?utm_source=devopswiki)
 
-[Building an RPM on CentOS](http://techarena51.com/index.php/build-rpm-without-breaking-head/)
+[Creating Init/Systemd Scripts](http://techarena51.com/blog/how-to-create-an-init-script-on-centos-6/?utm_source=devopswiki)
 
-[Bash Scripting Tutorials for Beginners](http://techarena51.com/index.php/bash-scripting-tutorial-part-2/)
+[Building an RPM on CentOS](http://techarena51.com/blog/build-rpm-without-breaking-head/?utm_source=devopswiki)
 
-http://techarena51.com/index.php/a-beginners-guide-to-bash-scripting/
+[ Bash if statements](http://techarena51.com/blog/bash-scripting-tutorial-part-2/?utm_source=devopswiki)
+
+[Beginners Guide to BASH](http://techarena51.com/blog/a-beginners-guide-to-bash-scripting/?utm_source=devopswiki)
 
 [Bash variable Expansion](http://wiki.bash-hackers.org/syntax/pe)
 
@@ -146,23 +147,23 @@ http://techarena51.com/index.php/a-beginners-guide-to-bash-scripting/
 
 [Python Regex for beginners](https://developers.google.com/edu/python/regular-expressions)
 
-[Building system monitoring apps in Python with Flask](http://techarena51.com/index.php/how-to-install-python-3-and-flask-on-linux/)
+[Building system monitoring apps in Python with Flask](http://techarena51.com/blog/how-to-install-python-3-and-flask-on-linux/?utm_source=devopswiki)
 
-[Building a Database driven RESTFUL API in Python 3 with Flask](http://techarena51.com/index.php/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-sqlalchemy/)
+[Building a Database driven RESTFUL API in Python 3 with Flask](http://techarena51.com/blog/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-sqlalchemy/?utm_source=devopswiki)
 
-[Building Database driven apps with MySQL or PostgreSQL using Python and SQLAlchemy ORM](http://techarena51.com/index.php/flask-sqlalchemy-tutorial/)
+[Building Database driven apps with MySQL or PostgreSQL using Python and SQLAlchemy ORM](http://techarena51.com/blog/flask-sqlalchemy-tutorial/?utm_source=devopswiki)
 
-http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
+[Python Postgres Tutorial](http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/?utm_source=devopswiki)
 
-[Token based Authentication with Pyjwt](http://techarena51.com/index.php/json-web-token-authentication-with-flask-and-angularjs/)
+[Token based Authentication with Pyjwt](http://techarena51.com/index.php/json-web-token-authentication-with-flask-and-angularjs/?utm_source=devopswiki)
 
 [Script to automatically Scaffold a database driven CRUD app in python](https://github.com/Leo-G/Flask-Scaffold)
 
 [Psutil a cross-platform Python library for retrieving information on running processes and system utilization (CPU, memory, disks, network) ](https://pypi.python.org/pypi/psutil)
 
-[Automating web testing with Selenium](http://techarena51.com/index.php/install-selenium-linux-automate-web-tests/)
+[Automating web testing with Selenium](http://techarena51.com/blog/install-selenium-linux-automate-web-tests/?utm_source=devopswiki)
 
-[Flask Github Webhook Handler](http://techarena51.com/index.php/flask-github-webhook-handler/)
+[Flask Github Webhook Handler](http://techarena51.com/blog/flask-github-webhook-handler/?utm_source=devopswiki)
 
 [Flask Web Sockets](http://blog.miguelgrinberg.com/post/easy-websockets-with-flask-and-gevent)
 
@@ -182,7 +183,7 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 [An introduction to Awk](http://www.grymoire.com/Unix/Awk.html)
 
-[Text Processing examples with Awk](http://techarena51.com/index.php/advance-text-processing-examples-awk/)
+[Text Processing examples with Awk](http://techarena51.com/blog/advance-text-processing-examples-awk/?utm_source=devopswiki)
 
 **[Back to top](#table-of-contents)**
 
@@ -222,7 +223,7 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 [Using UI-Router for Client side routing](https://github.com/angular-ui/ui-router/wiki/URL-Routing)
 
-[Token Based Authentication with Satellizer](http://techarena51.com/index.php/json-web-token-authentication-with-flask-and-angularjs/)
+[Token Based Authentication with Satellizer](https://techarena51.com/blog/json-web-token-authentication-with-flask-and-angularjs/?utm_source=devopswiki)
 
 [21 Javascript Answers on Quora Every Developer Must Read](https://josecasanova.com/blog/21-javascript-answers-on-quora-every-developer-must-read/)
 
@@ -240,17 +241,17 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 [JS resources](https://github.com/freecodecamp/freecodecamp/wiki/js-resources)
 
-[Linux Server Visualization using Websockets and Google style Gauges](http://techarena51.com/index.php/real-time-linux-server-monitoring-with-node-js-socket-io-and-d3-js-gauges/)
+[Linux Server Visualization using Websockets and Google style Gauges](https://techarena51.com/blog/real-time-linux-server-monitoring-with-node-js-socket-io-and-d3-js-gauges/?utm_source=devopswiki)
 
 **[Back to top](#table-of-contents)**
 
 ## Automation Guides
 
-[Automating Server Configs with Puppet](http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/)
+[Automating Server Configs with Puppet](https://techarena51.com/blog/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/?utm_source=devopswiki)
 
-[Automating Server Configs with the SaltStack](http://techarena51.com/index.php/getting-started-with-saltstack/)
+[Automating Server Configs with the SaltStack](https://techarena51.com/blog/getting-started-with-saltstack/?utm_source=devopswiki)
 
-[Using Foreman, an Opensource Frontend for Puppet](http://techarena51.com/index.php/using-foreman-opensource-frontend-puppet/)
+[Using Foreman, an Opensource Frontend for Puppet](https://techarena51.com/blog/using-foreman-opensource-frontend-puppet/?utm_source=devopswiki)
 
 [Using StackStorm, an Opensource platform for integration and automation across services and tools.](https://docs.stackstorm.com/overview.html#st2-overview)
 
@@ -261,7 +262,7 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 ## Backups
 
-[BUP Git based Backup](http://techarena51.com/index.php/using-git-backup-website-files-on-linux/)
+[BUP Git based Backup](https://techarena51.com/blog/using-git-backup-website-files-on-linux/)
 
 [Real time Backup Script written in bash](https://github.com/Leo-G/backup-bash)
 
@@ -274,9 +275,9 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page)
 
-[Fail2ban - Block ip scanning on postfix](http://techarena51.com/index.php/confiigure-fail2ban-block-brute-force-ips-scanning-postfix-logs/)
+[Fail2ban - Block ip scanning on postfix](https://techarena51.com/blog/confiigure-fail2ban-block-brute-force-ips-scanning-postfix-logs/?utm_source=devopswiki)
 
-[Configuring a Firewall for linux with CSF and LFD](http://techarena51.com/index.php/how-to-configure-and-install-config-server-firewall-login-failure-daemon/)
+[Configuring a Firewall for linux with CSF and LFD](https://techarena51.com/blog/how-to-configure-and-install-config-server-firewall-login-failure-daemon/?utm_source=devopswiki)
 
 [Hardening Debian for the Desktop Using Grsecurity](https://micahflee.com/2016/01/debian-grsecurity/)
 
@@ -285,18 +286,18 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 ## Email Server Configuration
 
-[Postfix configuration](http://techarena51.com/index.php/configure-secure-postfix-email-server/)
+[Postfix configuration](https://techarena51.com/blog/configure-secure-postfix-email-server/?utm_source=devopswiki)
 
-[Postfix Troubleshooting](http://techarena51.com/index.php/postfix-configuration-and-explanation-of-parameters/)
+[Postfix Troubleshooting](https://techarena51.com/blog/postfix-configuration-and-explanation-of-parameters/?utm_source=devopswiki)
 
-[Adding DMARC records](http://techarena51.com/index.php/what-is-dmarc-and-how-you-can-add-it/)
+[Adding DMARC records](https://techarena51.com/blog/what-is-dmarc-and-how-you-can-add-it/?utm_source=devopswiki)
 
 **[Back to top](#table-of-contents)**
 
 
 ## Firewall and Monitoring
 
-[Monitoring Linux Servers with Monit](http://techarena51.com/index.php/how-to-install-monit-monitoring-service-on-your-linux-vps-server/)
+[Monitoring Linux Servers with Monit](https://techarena51.com/blog/how-to-install-monit-monitoring-service-on-your-linux-vps-server/?utm_source=devopswiki)
 
 **[Back to top](#table-of-contents)**
 
@@ -316,17 +317,18 @@ http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
 
 ## Code Editors
 
-[Atom](https://atom.io/docs/v0.196.0/getting-started-why-atom)
+[VS Code](https://code.visualstudio.com/?utm_source=devopswiki)
 
-[Brackets](http://brackets.io/)
+[Atom](https://atom.io/docs/v0.196.0/getting-started-why-atom/?utm_source=devopswiki)
 
-[Sublime Text](http://www.sublimetext.com/)
+[Brackets](http://brackets.io/?utm_source=devopswiki)
 
-[GNU Emacs](https://www.gnu.org/software/emacs/)
+[Sublime Text](http://www.sublimetext.com/?utm_source=devopswiki)
 
-[Notepad++](https://notepad-plus-plus.org/)
+[GNU Emacs](https://www.gnu.org/software/emacs/?utm_source=devopswiki)
 
-[VS Code](https://code.visualstudio.com/)
+[Notepad++](https://notepad-plus-plus.org/?utm_source=devopswiki)
+
 
 **[Back to top](#table-of-contents)**
 
@@ -399,7 +401,7 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 
 [What is Machine Learning?](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 
-[Getting Started with Machine Learning on Linux with Python](https://techarena51.com/index.php/getting-started-machine-learning-linux-python-3-scikit-learn/?utm_source=devopswiki)
+[Getting Started with Machine Learning on Linux with Python](https://techarena51.com/blog/getting-started-machine-learning-linux-python-3-scikit-learn/?utm_source=devopswiki)
 
 [Which Machine Learning Algorithm you should use and when](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
